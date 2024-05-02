@@ -56,3 +56,40 @@ button{
 	color: white;
 
 }
+
+#hot {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#hot li {
+	/*display: inline-block;
+	background-color: lightgray;
+	height: 50px;
+	width: 200px;
+	border-radius: 5px;
+	margin-bottom: 10px;*/
+	   display: inline-block;
+    text-decoration: none;
+    border: black solid 2px;
+    border-radius: 12px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+
+#hot h2 {
+	margin-bottom: 10px;
+}
+footer {
+	text-align: center;
+	background-color: lightgray;
+	height: 5vh;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
